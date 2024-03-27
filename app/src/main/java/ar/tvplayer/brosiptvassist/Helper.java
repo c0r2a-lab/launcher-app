@@ -2,7 +2,6 @@ package ar.tvplayer.brosiptvassist;
 
 import android.app.ActivityManager;
 import android.content.Context;
-import android.widget.Toast;
 
 import java.util.List;
 
