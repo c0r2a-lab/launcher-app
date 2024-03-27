@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BROSIPTVASSIST</string>
+
+    <string name="origin_app">ar.tvplayer.brosiptvassist</string>
+    <string name="target_app">ar.tvplayer.tv</string>
+
+    <string name="already_running">Target app is already running now.</string>
+    <string name="app_down">Target app has been down.</string>
+    <string name="memory_cached">Memory cache has been cleared!</string>
+    <string name="no_found_package">Unable to find package.</string>
+    <string name="package_launch_failure">Failed to launch package.</string>
+    <string name="unable_delay">Unable to delay.</string>
+
+    <string name="tivimate_folder_path">/storage/emulated/0/TiviMate/Recordings</string>
+    <string name="regexp_extract_dayint">\\d{4}-\\d{2}-(\\d{2})T\\d{2}:\\d{2}:\\d{2}.\\d+Z</string>
+    <string name="regexp_extract_timestr">\\d{4}-\\d{2}-\\d{2}T(\\d{2}:\\d{2}:\\d{2}).\\d+Z</string>
+</resources>
